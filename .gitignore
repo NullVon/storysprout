@@ -1,0 +1,13 @@
+# Godot 4+
+.import/
+.godot/
+
+# Build output
+builds/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
