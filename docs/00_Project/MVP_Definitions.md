@@ -1,37 +1,72 @@
-# MVP Definitions
+# \# MVP Definitions
 
-## StorySprout MVP
+# 
 
-A reusable 2D cozy RPG framework that demonstrates:
+# \## StorySprout MVP
 
-- Player movement
-- Dialogue
-- NPC interactions
-- Memory discovery
-- Inventory
-- Companion/party support
-- Turn-based encounter framework
-- Mini-game hooks
-- Save/load foundation
-- Beginner-friendly documentation
+# 
 
-## First Bloom MVP
+# A reusable 2D cozy RPG framework that demonstrates:
 
-A short public/commercial cozy RPG using StorySprout.
+# 
 
-Requirements:
-- No proposal content.
-- No real names.
-- No private relationship details.
-- Same emotional structure and gameplay mechanics as Playable Memory, but with a generic story.
-- Chapter 1 working title: **Beginnings**.
+# \- Player movement
 
-## Playable Memory MVP
+# \- Dialogue
 
-A private customized edition using the same framework and story structure.
+# \- NPC interactions
 
-Requirements:
-- Personalized dialogue and memories.
-- Proposal ending.
-- Wedding bells callback.
-- Built after the public systems are stable.
+# \- Memory or moment discovery
+
+# \- Inventory
+
+# \- Companion/party support
+
+# \- Turn-based encounter framework
+
+# \- Mini-game hooks
+
+# \- Save/load foundation
+
+# \- Beginner-friendly documentation
+
+# 
+
+# \## First Bloom MVP
+
+# 
+
+# A short public/commercial cozy RPG using StorySprout.
+
+# 
+
+# Requirements:
+
+# \- Uses StorySprout systems.
+
+# \- Tells a complete cozy narrative adventure.
+
+# \- Includes exploration, dialogue, encounters, memories/moments, and mini-games.
+
+# \- Keeps all story content fictional, generic, and publishable.
+
+# \- Chapter 1 working title: \*\*Beginnings\*\*.
+
+# 
+
+# \## Private Projects
+
+# 
+
+# StorySprout may also be used as the foundation for private custom projects.
+
+# 
+
+# Requirements:
+
+# \- Private project content should stay outside this public repository.
+
+# \- Public documentation should not include private story details.
+
+# \- Public documentation should remain safe for anyone to read.
+
