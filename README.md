@@ -1,60 +1,29 @@
-\# StorySprout 🌱
+# StorySprout 🌱
 
+An open-source framework for building cozy, narrative-driven 2D RPGs.
 
+StorySprout is the public foundation for ZyCorps' cozy game projects. It is designed as a beginner-friendly but professional framework for reusable systems such as movement, dialogue, memories, companions, inventory, mini-games, and turn-based encounters.
 
-StorySprout is an open-source 2D cozy RPG framework developed by ZyCorps.
+## Project Family
 
+1. **StorySprout** — public open-source framework.
+2. **First Bloom** — public/commercial cozy RPG built from StorySprout.
+3. **Playable Memory** — private personalized proposal edition built from the same foundation.
 
+## Repository Structure
 
-Its purpose is to provide reusable systems for building narrative-driven adventure games, including dialogue, companions, quests, memories, mini-games, and turn-based encounters.
+- `docs/` — project documentation
+- `game/` — Godot project
+- `art/` — sprites, UI, animation assets
+- `audio/` — music and sound effects
+- `references/` — inspiration and reference material
+- `tools/` — utility scripts
+- `builds/` — exported builds, ignored by Git
 
+## Status
 
+Early development.
 
-\## Vision
+## Development Philosophy
 
-
-
-Build once.
-
-Reuse forever.
-
-
-
-\## Status
-
-
-
-🚧 Early Development
-
-
-
-\## Roadmap
-
-
-
-\- \[ ] Project Setup
-
-\- \[ ] Player Movement
-
-\- \[ ] Dialogue System
-
-\- \[ ] Interaction System
-
-\- \[ ] Companion System
-
-\- \[ ] Save System
-
-\- \[ ] Inventory
-
-\- \[ ] Turn-Based Encounters
-
-\- \[ ] Mini-Game Framework
-
-
-
-\---
-
-
-
-Developed by ZyCorps
-
+Build small. Build clean. Commit often. Learn deeply.

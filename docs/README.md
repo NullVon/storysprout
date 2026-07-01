@@ -1,60 +1,13 @@
-\# StorySprout 🌱
+# StorySprout Documentation
 
+This folder contains the living documentation for StorySprout and the ZyCorps roadmap.
 
+## Sections
 
-StorySprout is an open-source 2D cozy RPG framework developed by ZyCorps.
-
-
-
-Its purpose is to provide reusable systems for building narrative-driven adventure games, including dialogue, companions, quests, memories, mini-games, and turn-based encounters.
-
-
-
-\## Vision
-
-
-
-Build once.
-
-Reuse forever.
-
-
-
-\## Status
-
-
-
-🚧 Early Development
-
-
-
-\## Roadmap
-
-
-
-\- \[ ] Project Setup
-
-\- \[ ] Player Movement
-
-\- \[ ] Dialogue System
-
-\- \[ ] Interaction System
-
-\- \[ ] Companion System
-
-\- \[ ] Save System
-
-\- \[ ] Inventory
-
-\- \[ ] Turn-Based Encounters
-
-\- \[ ] Mini-Game Framework
-
-
-
-\---
-
-
-
-Developed by ZyCorps
-
+- `00_Project/` — project overview, MVPs, repository rules
+- `01_Studio/` — ZyCorps philosophy, manifesto, workflow
+- `02_Design/` — GDD and design pillars
+- `03_Gameplay/` — gameplay systems
+- `04_Technical/` — architecture and platform support
+- `05_Roadmap/` — product roadmap and milestones
+- `06_Journal/` — sprint journal and decision log
