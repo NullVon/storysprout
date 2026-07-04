@@ -1,0 +1,26 @@
+[gd_scene format=3 uid="uid://cn0kphou78420"]
+
+[ext_resource type="PackedScene" uid="uid://ykuxx2b7bie3" path="res://scenes/player/Player.tscn" id="1_1oml7"]
+[ext_resource type="PackedScene" uid="uid://b00thcb4n8unn" path="res://scenes/world/Bedroom.tscn" id="2_6eebf"]
+[ext_resource type="Script" uid="uid://b360nijwk7vyh" path="res://scenes/world/TestInteractable.gd" id="3_6eebf"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_8enkx"]
+size = Vector2(137, 107)
+
+[node name="World" type="Node2D" unique_id=683585918]
+
+[node name="Bedroom" parent="." unique_id=651070603 instance=ExtResource("2_6eebf")]
+position = Vector2(-23, 4)
+
+[node name="Objects" type="Node2D" parent="." unique_id=448598215]
+
+[node name="TestInteractable" type="Area2D" parent="Objects" unique_id=1577489197]
+position = Vector2(-2, -7)
+script = ExtResource("3_6eebf")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Objects/TestInteractable" unique_id=432735817]
+position = Vector2(521, 372)
+shape = SubResource("RectangleShape2D_8enkx")
+
+[node name="Player" parent="." unique_id=1416832609 instance=ExtResource("1_1oml7")]
+position = Vector2(1, 1)
